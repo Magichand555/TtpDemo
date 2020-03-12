@@ -20,7 +20,7 @@
   [
 	{ "Name": "Esterno", "Descrizione": "Controllo accessi varco esterno", "Features": 3 },
 	{ "Name": "Hall", "Descrizione": "Controllo accessi ingresso hall", "Features": 2 }
-  ]
+  ],
   "terminale": 
   [
 	{ "IMEI": "12345678", "Profilo": "Esterno" },
