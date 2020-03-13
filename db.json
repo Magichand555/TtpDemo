@@ -10,12 +10,6 @@
     { "Nominativo": "Alex D", "TipoDocumento": 1, "Documento": "AA00000000", "LuogoDiNascita": "Trieste", "DataDiNascita": "01/01/1970", "Checked": 0 },
     { "Nominativo": "Sandro D", "TipoDocumento": 2, "Documento": "BB00000000", "LuogoDiNascita": "Napoli", "DataDiNascita": "21/02/1970", "Checked": 0 }
   ],
-  "documento": 
-  [
-	{ "id": 1, "Descrizione": "Carta di identità" },
-	{ "id": 2, "Descrizione": "Patente" },
-	{ "id": 3, "Descrizione": "Passaporto" }
-  ],
   "profilo": 
   [
 	{ "Nome": "Esterno", "Descrizione": "Controllo accessi varco esterno", "Features": 3 },
@@ -25,11 +19,6 @@
   [
 	{ "Nome": "veicolo", "NomeMenu": "Veicoli", "Valore": 1, "UltimaModifica": "13/03/2020 09:38" },
 	{ "Nome": "persona", "NomeMenu": "Persone", "Valore": 2, "UltimaModifica": "13/03/2020 09:38" }
-  ],
-  "terminale": 
-  [
-	{ "IMEI": "12345678", "Profilo": "Esterno" },
-	{ "IMEI": "87654321", "Profilo": "Hall" }
   ],
   "impostazioni":
   {
