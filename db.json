@@ -1,10 +1,4 @@
 {
-  "documento": 
-  [
-	{ "id": 1, "Descrizione": "Carta di identità" },
-	{ "id": 2, "Descrizione": "Patente" },
-	{ "id": 3, "Descrizione": "Passaporto" }
-  ],
   "veicolo": 
   [
     { "Nominativo": "Alex", "TipoDocumento": 1, "Documento": "AA00000000", "LuogoDiNascita": "Trieste", "DataDiNascita": "01/01/1970", "Qualifica": "Autista", "TipoVeicolo": "Mercedes Vito", "Targa": "AA000BB", "Checked": 0 },
@@ -15,6 +9,12 @@
   [
     { "Nominativo": "Alex D", "TipoDocumento": 1, "Documento": "AA00000000", "LuogoDiNascita": "Trieste", "DataDiNascita": "01/01/1970", "Checked": 0 },
     { "Nominativo": "Sandro D", "TipoDocumento": 2, "Documento": "BB00000000", "LuogoDiNascita": "Napoli", "DataDiNascita": "21/02/1970", "Checked": 0 }
+  ],
+  "documento": 
+  [
+	{ "id": 1, "Descrizione": "Carta di identità" },
+	{ "id": 2, "Descrizione": "Patente" },
+	{ "id": 3, "Descrizione": "Passaporto" }
   ],
   "profilo": 
   [
