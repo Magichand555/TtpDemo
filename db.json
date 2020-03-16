@@ -2,7 +2,7 @@
   "veicolo": 
   [
     { "Nominativo": "Alex", "TipoDocumento": 1, "Documento": "AA00000000", "LuogoDiNascita": "Trieste", "DataDiNascita": "01/01/1970", "Qualifica": "Autista", "TipoVeicolo": "Mercedes Vito", "Targa": "AA000BB", "Checked": false },
-    { "Nominativo": "Sandro", "TipoDocumento": 2, "Documento": "BB00000000", "LuogoDiNascita": "", "DataDiNascita": "", "Qualifica": "", "TipoVeicolo": "", "Targa": "BB000CC", "Checked": false },
+    { "Nominativo": "Sandro", "TipoDocumento": 2, "Documento": "BB00000000", "LuogoDiNascita": "", "DataDiNascita": "", "Qualifica": "", "TipoVeicolo": "", "Targa": "BB000CC", "Checked": true },
     { "Nominativo": "Alessandro", "TipoDocumento": 3, "Documento": "CC00000000", "LuogoDiNascita": "", "DataDiNascita": "", "Qualifica": "", "TipoVeicolo": "", "Targa": "CC000DD", "Checked": false }
   ],
   "persona": 
