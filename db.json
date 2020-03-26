@@ -1,28 +1,47 @@
 {
-  "veicolo": 
+	
+  "veicolo":  
   [
-    { "Nominativo": "Alex", "TipoDocumento": 1, "Documento": "AA00000000", "LuogoDiNascita": "Trieste", "DataDiNascita": "01/01/1970", "Societa": "Autista", "TipoVeicolo": "Mercedes Vito", "Targa": "AA000BB", "Checked": false },
-    { "Nominativo": "Sandro", "TipoDocumento": 2, "Documento": "BB00000000", "LuogoDiNascita": "", "DataDiNascita": "", "Societa": "", "TipoVeicolo": "", "Targa": "BB000CC", "Checked": true },
-    { "Nominativo": "Alessandro", "TipoDocumento": 3, "Documento": "CC00000000", "LuogoDiNascita": "", "DataDiNascita": "", "Societa": "", "TipoVeicolo": "", "Targa": "CC000DD", "Checked": false }
+    {"Nominativo":"MARIO ROSSI","TipoDocumento":"CI","Documento":"AA123456","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1965","Societa":"XVNDOIGOI","Targa":"CS071XN/AH13500"},
+    {"Nominativo":"GIUSEPPE VERDI","TipoDocumento":"CI","Documento":"AA123457","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1966","Societa":"XVNDOIGOI","Targa":"CS071XN/AH13501"},
+    {"Nominativo":"MARIA SUSA","TipoDocumento":"CI","Documento":"AA123458","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1967","Societa":"FNIOXNFOVI","Targa":"CS071XN/AH13502"},
+    {"Nominativo":"MARIO ROSSO","TipoDocumento":"CI","Documento":"AA123459","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1968","Societa":"VNI","Targa":"CS071XN/AH13503"},
+    {"Nominativo":"GIGI VERDE","TipoDocumento":"CI","Documento":"AA123460","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1969","Societa":"DFN","Targa":"CS071XN/AH13504"},
+    {"Nominativo":"VALERIO SISSA","TipoDocumento":"CI","Documento":"AA123461","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1970","Societa":"SBAOU","Targa":"CS071XN/AH13505"},
+    {"Nominativo":"ALDO MORO","TipoDocumento":"CI","Documento":"AA123462","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1971","Societa":"VAO","Targa":"CS071XN/AH13506"},
+    {"Nominativo":"DIEGO RIZZOLATO","TipoDocumento":"CI","Documento":"AA123463","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1972","Societa":"VSGUWEHRUE","Targa":"AH135800"},
+    {"Nominativo":"ALBERTO PASCOLI","TipoDocumento":"CI","Documento":"AA123464","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1973","Societa":"VSGUWEHRUE","Targa":"AH135801"},
+    {"Nominativo":"LUIGI DI BIANCO","TipoDocumento":"CI","Documento":"AA123465","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1974","Societa":"VSGUWEHRUE","Targa":"AH135802"},
+    {"Nominativo":"MARIO COLLI","TipoDocumento":"CI","Documento":"AA123466","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1975","Societa":"VSGUWEHRUE","Targa":"AH135803"},
+    {"Nominativo":"ENRICO PISTA","TipoDocumento":"CI","Documento":"AA123467","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1976","Societa":"VSGUWEHRUE","Targa":"CS071BN/YK13421"},
+    {"Nominativo":"MARIO ALBERTI","TipoDocumento":"CI","Documento":"AA123468","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1977","Societa":"VSGUWEHRUE","Targa":"CS071BN/YK13422"},
+    {"Nominativo":"DONATELLO VIVO","TipoDocumento":"CI","Documento":"AA123469","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1978","Societa":"VSGUWEHRUE","Targa":"CS071BN/YK13423"},
+    {"Nominativo":"CARLO VERDO","TipoDocumento":"CI","Documento":"AA123470","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1979","Societa":"VSGUWEHRUE","Targa":"CS071BN/YK13424"},
+    {"Nominativo":"VALERIO ROSSI","TipoDocumento":"CI","Documento":"AA123471","LuogoDiNascita":"TRADATE","DataDiNascita":"01/03/1980","Societa":"VSGUWEHRUE","Targa":"CS071BN/YK13425"}
   ],
+  
   "persona": 
   [
     { "Nominativo": "Alex D", "TipoDocumento": 1, "Documento": "AA00000000", "LuogoDiNascita": "Trieste", "DataDiNascita": "01/01/1970", "Checked": false },
     { "Nominativo": "Sandro D", "TipoDocumento": 2, "Documento": "BB00000000", "LuogoDiNascita": "Napoli", "DataDiNascita": "21/02/1970", "Checked": false }
   ],
+	
   "profilo": 
   [
 	{ "Nome": "Esterno", "Descrizione": "Controllo accessi varco esterno", "Features": 3 },
 	{ "Nome": "Hall", "Descrizione": "Controllo accessi ingresso hall", "Features": 2 }
   ],
+	
   "features":
   [
 	{ "Nome": "veicolo", "NomeMenu": "Veicoli", "Valore": 1, "UltimaModifica": "13/03/2020 09:38" },
 	{ "Nome": "persona", "NomeMenu": "Persone", "Valore": 2, "UltimaModifica": "13/03/2020 09:38" }
   ],
+	
   "impostazioni":
   {
 	"NomeLista": "20200313_MSC",
 	"UltimaModifica": "13/03/2020 09:38"
   }
+	
 }
